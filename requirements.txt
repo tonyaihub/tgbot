@@ -1,0 +1,6 @@
+telethon
+openai
+python-dotenv
+flask
+gspread
+google-auth
